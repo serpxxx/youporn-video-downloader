@@ -1,0 +1,7 @@
+{
+  "description": "This actor currently exposes a listing-first template surface. Runtime input is not finalized yet, so the public input schema is intentionally minimal.",
+  "properties": {},
+  "schemaVersion": 1,
+  "title": "Youporn Downloader input",
+  "type": "object"
+}

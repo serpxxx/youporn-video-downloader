@@ -1,6 +1,10 @@
-# YouPorn Downloader (Browser Extension)
+# Youporn Video Downloader | How to Download Youporn Videos
 
 > Download supported YouPorn videos as MP4 files directly from active watch pages.
+
+## Get it Here
+
+Get it here: https://serp.ly/youporn-video-downloader
 
 ![Youporn Downloader](https://raw.githubusercontent.com/serpxxx/youporn-video-downloader/main/assets/workflow-preview.webp)
 
@@ -11,11 +15,6 @@ YouPorn Downloader is a browser extension built for users who want a cleaner way
 - Export MP4 files for easier offline playback and archiving
 - Avoid manual source extraction from page scripts
 - Keep the workflow entirely in the browser
-
-## Get it Here
-
-Get it here: https://serp.ly/youporn-video-downloader
-
 ## Table of Contents
 
 - [Why YouPorn Downloader](#why-youporn-downloader)
